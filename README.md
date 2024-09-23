@@ -1,4 +1,4 @@
-# [Live site preview](https://web3-crowdfunding-prj.netlify.app/)
+
 
 
 ## Venture - Web3 Crowd Funding Platform
